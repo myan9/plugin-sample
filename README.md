@@ -12,9 +12,8 @@ client.
 # Clone and Own the Repo
 
 ```bash
-git clone https://github.com/kui-shell/plugin-sample
-cd plugin-sample
-npm install
+git clone https://github.com/kui-shell/plugin-sample && cd plugin-sample
+npm ci
 ```
 
 # How this Project extends Kui
